@@ -152,6 +152,7 @@
         .td{
             padding-bottom: 3%;
             font-size: 20px;
+            border-bottom: solid 2px black;
         }
         .scope{
             padding-bottom: 3%;
